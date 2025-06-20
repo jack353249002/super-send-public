@@ -6,7 +6,7 @@ super-send 是邮件发送的核心，主要任务是进行邮件的发送和接
 
 docker 命令:
 
-    docker push jacksw/super-send:tagname
+    docker pull jacksw/super-send
 
 
 
@@ -14,7 +14,7 @@ super-send-tool 是一个用来进行ui可视化管理的工具，主要用来�
 
 docker 命令:
 
-    docker push jacksw/super-send-tool:tagname
+    docker pull jacksw/super-send-tool
 
 
 
